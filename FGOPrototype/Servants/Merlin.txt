@@ -1,0 +1,73 @@
+Merlin
+Caster
+5
+16
+1629
+10546
+11544
+2091
+14259
+15621
+Sakurai Takahiro, Kawasumi Ayako
+Taiki
+49
+10.8
+0.81
+3
+Earth
+Semi S
+36
+Lawful
+Good
+Male
+4
+1
+3
+1
+5
+2
+3
+6
+Dreamlike Charisma A
+Illusion A
+Hero Creation EX
+3
+Garden of Avalon
+C
+Arts
+0
+Anti-Unit
+B
+E
+D
+A
+C
+C
+The Furthest Tower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Humanoid
+Male
+Servant
+Weak to Enuma Elish
+
+
+
+
+
+
+Territory Creation C
+Item Construction C
+Mixed Blood EX
