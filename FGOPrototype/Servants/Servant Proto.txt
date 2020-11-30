@@ -1,0 +1,71 @@
+Servant Name
+Class
+Star Rating
+Cost
+Attack
+Max Attack
+Grail Attack
+Health
+Max Health
+Grail Health
+VA
+Illustrator
+Star Absorption
+Star Generation
+NP Charge Attack
+NP Charge Defence
+Attribute
+Growth Curve
+Death Rate
+Alignment 1
+Alignment 2
+Gender
+Number of Traits
+Buster Cards
+Arts Cards
+Quick Cards
+Buster Hits
+Arts Hits
+Quick Hits
+Extra Hits
+Skill 1
+Skill 2
+Skill 3
+Passives
+Noble Phantasm
+Rank
+NP Type (Card)
+NP Hits
+Noble Phantasm Type (Description)
+Strength
+Endurance
+Agility
+Mana
+Luck
+NP
+Bond 10 CE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traits start here
+
+
+
+
+
+
+
+
+
+Passives start here
